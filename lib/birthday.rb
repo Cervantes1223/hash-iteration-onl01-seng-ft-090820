@@ -14,5 +14,6 @@ def age_appropriate_birthday(birthday_kids)
   birthday_kids do |kids_name, age|
     puts "Happy Birthday #{kids_name}! You are now #{age} years old!"
     elsif birthday_kids["Amanda"] 
-    puts "ou are too old for this."
-  
+    puts "You are too old for this."
+  end 
+end 
