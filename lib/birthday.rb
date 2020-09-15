@@ -18,6 +18,4 @@ end
         puts "#{kid} you are too old for this."
       end
     end 
-  end 
-end
  
